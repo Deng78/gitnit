@@ -1,7 +1,7 @@
 {
   "name": "gitnit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Git initializer CLI that creates a remote repository on GitHub, edit the .gitignore file and perform the initial commit and push",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
